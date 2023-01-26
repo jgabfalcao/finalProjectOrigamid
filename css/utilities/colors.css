@@ -1,2 +1,64 @@
-.whiteColor {
+:root {
+  --color-12: #000000;
+  --color-11: #111111;
+  --color-10: #2e2e2e;
+  --color-0: #ffffff;
+
+  --color-p1: #ffbb00;
+}
+
+.color0 {
+  color: #ffffff;
+}
+
+.color1 {
+  color: #f7f7f7;
+}
+
+.color2 {
+  color: #ededed;
+}
+
+.color3 {
+  color: #dedede;
+}
+
+.color4 {
+  color: #cccccc;
+}
+
+.color5 {
+  color: #b2b2b2;
+}
+
+.color6 {
+  color: #9c9c9c;
+}
+
+.color7 {
+  color: #717171;
+}
+
+.color8 {
+  color: #595959;
+}
+
+.color9 {
+  color: #404040;
+}
+
+.color10 {
+  color: #2e2e2e;
+}
+
+.color11 {
+  color: #111111;
+}
+
+.color12 {
+  color: #000000;
+}
+
+.primaryColor1 {
+  color: var(--color-p1);
 }
